@@ -1,0 +1,10 @@
+[package]
+name = "rank_scrapper"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+isahc = "1.7.1"
+select = "0.6.0"
